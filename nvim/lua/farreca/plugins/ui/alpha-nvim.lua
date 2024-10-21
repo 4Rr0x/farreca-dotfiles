@@ -353,7 +353,7 @@ local footer = {
   },
   opts = {
     position = "center",
-    hl       = "SpellCap",
+    hl       = "WariningMsg",
   }
 }
 
