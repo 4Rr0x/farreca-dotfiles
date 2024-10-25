@@ -1,7 +1,7 @@
 {
   "42header": { "branch": "master", "commit": "9f51db5cc483951e257aece66f1f4ce3b14cdab1" },
   "FTerm.nvim": { "branch": "master", "commit": "d1320892cc2ebab472935242d9d992a2c9570180" },
-  "LuaSnip": { "branch": "master", "commit": "ac7cbc0e85710db7cba6510b1d8e6a1a551444f7" },
+  "LuaSnip": { "branch": "master", "commit": "e808bee352d1a6fcf902ca1a71cee76e60e24071" },
   "NeoColumn.nvim": { "branch": "main", "commit": "db7695c7c70fcacd290712deef659bca464634ee" },
   "alpha-nvim": { "branch": "main", "commit": "bf3c8bb8c02ed3d9644cc5bbc48e2bdc39349cd7" },
   "barbecue": { "branch": "main", "commit": "cd7e7da622d68136e13721865b4d919efd6325ed" },
